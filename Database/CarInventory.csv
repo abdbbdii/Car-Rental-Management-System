@@ -1,0 +1,13 @@
+Number Plate,Model,Color,Price/Hour,Times Rented,Repairs,Condition,Status
+AAC987,Toyota Camry,Black,10,7,0,Good,Available
+ABC123,Honda Civic,Blue,15,6,0,Excellent,Available
+DEF654,Ford Mustang,White,20,6,0,Excellent,Available
+GHI789,BMW 3 Series,Gray,12,2,0,Excellent,Available
+JKL456,Mercedes-Benz E-Class,Green,7,7,2,Fair,Available
+LMN567,Chevrolet Malibu,Orange,26,6,2,Fair,Available
+MNO321,Hyundai Sonata,Black,30,3,1,Excellent,Available
+PQR987,Audi A4,Silver,20,5,1,Good,Available
+RST890,Volkswagen Golf,Purple,30,3,0,Excellent,Available
+UVW234,Nissan Altima,Yellow,80,4,1,Good,Available
+XYZ789,Tesla Model 3,Red,50,5,1,Good,Available
+2345,Hello,Black,4,3,1,Good,Coming Soon
